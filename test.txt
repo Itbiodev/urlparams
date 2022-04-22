@@ -1,0 +1,3 @@
+https://example.com/?param1=1&url=fsdaf&xss=alert(1)
+http://airbnb.com/?param1=f&xss=dad&url=fe
+https://google.com/?param1=1&id=123&something=x&forward=sfda
